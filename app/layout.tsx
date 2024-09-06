@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Shopping Cart Instant",
-  description: "Shopping Cart Instant",
+  title: "Shopping List Instant",
+  description: "Shopping List Instant",
 };
 
 export default function RootLayout({
